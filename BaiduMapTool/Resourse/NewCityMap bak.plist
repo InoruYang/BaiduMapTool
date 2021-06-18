@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>闸北区</key>
+	<string>闸北区</string>
+	<key>宁河县</key>
+	<string>宁河区</string>
+	<key>吐鲁番地区</key>
+	<string>吐鲁番市</string>
+	<key>哈密地区</key>
+	<string>哈密市</string>
+	<key>林芝地区</key>
+	<string>林芝地区</string>
+	<key>昌都地区</key>
+	<string>昌都地区</string>
+	<key>潼南县</key>
+	<string>潼南区</string>
+	<key>梁平县</key>
+	<string>梁平区</string>
+	<key>荣昌县</key>
+	<string>荣昌区</string>
+	<key>璧山县</key>
+	<string>璧山区</string>
+	<key>武隆县</key>
+	<string>武隆区</string>
+	<key>铜梁县</key>
+	<string>铜梁区</string>
+</dict>
+</plist>
